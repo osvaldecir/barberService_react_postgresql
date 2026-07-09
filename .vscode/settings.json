@@ -1,5 +1,6 @@
 {
   "prisma.pinToPrisma6": false,
   "WillLuke.nextjs.addTypesOnSave": true,
-  "WillLuke.nextjs.hasPrompted": true
+  "WillLuke.nextjs.hasPrompted": true,
+  "js/ts.tsdk.path": "node_modules\\typescript\\lib"
 }
